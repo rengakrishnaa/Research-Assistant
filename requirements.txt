@@ -6,7 +6,7 @@ langchain-ollama
 langchain-groq
 langgraph
 pypdf
-chromadb
+chromadb==0.5.3
 sentence-transformers
 streamlit
 huggingface-hub
