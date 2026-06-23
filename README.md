@@ -9,14 +9,17 @@ app_file: app/main.py
 pinned: false
 ---
 
-# 🔬 Research Paper Assistant
+#  Research Paper Assistant
 
 Upload academic research papers and ask questions 
 with AI-powered answers and citations.
 
 ## Features
-- 📄 Upload multiple PDF papers
-- 💬 Ask questions across all papers
-- 📚 Get answers with page citations
-- 🧠 Conversation memory
-- ⚡ Streaming responses
+-  Upload multiple PDF papers
+-  Ask questions across all papers
+-  Get answers with page citations
+-  Conversation memory
+-  Streaming responses
+
+CHECK THE APPLICATION HERE:
+https://huggingface.co/spaces/Krishrk/research-paper-assistant
